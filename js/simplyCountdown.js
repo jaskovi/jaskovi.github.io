@@ -122,11 +122,11 @@
                 minutes: 0,
                 seconds: 0,
                 words: {
-                    days: 'day',
-                    hours: 'hour',
-                    minutes: 'minute',
-                    seconds: 'second',
-                    pluralLetter: 's'
+                    days: 'dnů',
+                    hours: 'hodin',
+                    minutes: 'minut',
+                    seconds: 'sekund',
+                    pluralLetter: ''
                 },
                 plural: true,
                 inline: false,
