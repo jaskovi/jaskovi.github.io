@@ -1064,6 +1064,11 @@ form label {
     width: 100%;
   }
 }
+.about-name h2 {
+  font-family: "Sacramento", Arial, serif;
+  color: #6A001E;
+  font-size: 60px;
+}
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
   color: #6A001E;
