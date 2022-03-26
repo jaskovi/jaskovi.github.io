@@ -1114,12 +1114,10 @@ form label {
 }
 .couple-half .desc-groom {
   padding-right: 180px;
-  margin-left: 100px;
   text-align: right;
 }
 .couple-half .desc-bride {
   padding-left: 180px;
-  margin-right: 100px;
   text-align: left;
 }
 @media screen and (max-width: 480px) {
